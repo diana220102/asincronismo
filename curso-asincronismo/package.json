@@ -1,0 +1,18 @@
+{
+  "name": "curso-asincronismo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/cchallenge.js"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "diana ramirez dianitrix251017@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.1",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
